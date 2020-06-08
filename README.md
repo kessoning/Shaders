@@ -1,5 +1,11 @@
 # Shaders
 
+![Worley Bulb](https://raw.githubusercontent.com/KessonDalef/Shaders/master/Previews/worleybulb.gif)
+![Typographic Empire](https://raw.githubusercontent.com/KessonDalef/Shaders/master/Previews/typographicempire.gif)
+![Hades](https://raw.githubusercontent.com/KessonDalef/Shaders/master/Previews/hades.gif)
+![Voronoise](https://raw.githubusercontent.com/KessonDalef/Shaders/master/Previews/voronoise.gif)
+![Sphere](https://raw.githubusercontent.com/KessonDalef/Shaders/master/Previews/sphere.gif)
+
 Some Shaders while learning and/or Live Coding.
 
 More on [my website](https://kesson.io)
