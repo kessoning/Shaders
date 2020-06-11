@@ -5,6 +5,7 @@
 ![Hades](https://raw.githubusercontent.com/KessonDalef/Shaders/master/Previews/hades.gif)
 ![Voronoise](https://raw.githubusercontent.com/KessonDalef/Shaders/master/Previews/voronoise.gif)
 ![Sphere](https://raw.githubusercontent.com/KessonDalef/Shaders/master/Previews/sphere.gif)
+![Supershape](https://raw.githubusercontent.com/KessonDalef/Shaders/master/Previews/supershape.gif)
 
 Some Shaders while learning and/or Live Coding.
 
